@@ -31,4 +31,4 @@ An example of a config object that tells the directive to show the 'label' prope
 The model will inherit a selected option's label property value onto its own label property, as well as any other properties the option has.
 
 #Demo
-[View on Plunker](http://plnkr.co/edit/fQYSBO?p=preview)
+[View on Plunker](http://plnkr.co/edit/mQfCi1DztiqjPydjRo4I?p=preview)
